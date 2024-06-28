@@ -20,7 +20,7 @@ For a step-by-step guide on how to use this repository, please watch our tutoria
 
 ## Getting Started
 
-1. Clone this repository: git clone https://github.com/weihanyeo/mybot_ws.git
+1. Clone this repository: git clone [https://github.com/weihanyeo/mybot_ws.git](https://github.com/weihanyeo/ROS-Gazebo_tutorial)
 2. Change to the desired branch: git checkout <your-desired-branch-name>
 3. Have fun building ^^
 
@@ -28,3 +28,7 @@ For a step-by-step guide on how to use this repository, please watch our tutoria
 
 - ROS (Robot Operating System)
 - Gazebo
+
+## Contact
+
+If you have any questions or issues, please open an issue in this repository or contact us at [yeowh@hotmail.sg](yeowh@hotmail.sg)
