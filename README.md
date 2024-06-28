@@ -1,4 +1,4 @@
-# mybot_ws: URDF Model for Gazebo Integrated with ROS
+# URDF Model for Gazebo Integrated with ROS
 
 This repository contains a URDF (Unified Robot Description Format) model for a robot called "mybot", designed to work with Gazebo and integrated with ROS (Robot Operating System).
 
