@@ -1,6 +1,6 @@
 # Simulating the ROS Navigation Stack (part 3)
 
-This tutorial updates [http://www.moorerobots.com/blog/post/3 ](https://www.youtube.com/watch?v=Hp0Nl3jH1Es) to run on ROS Melodic (Ubuntu 18.04)
+This tutorial updates [https://www.youtube.com/watch?v=Hp0Nl3jH1Es](https://www.youtube.com/watch?v=Hp0Nl3jH1Es) to run on ROS Melodic (Ubuntu 18.04)
 
 ## Mapping and Navigation: Turtlebot3 
 In ROS melodic, turtlebot3 has replaced the older turtlebot packages.  This
