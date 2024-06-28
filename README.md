@@ -18,6 +18,10 @@ For a step-by-step guide on how to use this repository, please watch our tutoria
 
 [MyBot Tutorial Video](https://t.ly/Prcyw)
 
+![simulation](https://github.com/weihanyeo/ROS-Gazebo_tutorial/assets/36888332/09e68fa7-50c1-40e0-adf7-791ec4ea7bd9)
+
+
+
 ## Getting Started
 
 1. Clone this repository: git clone [https://github.com/weihanyeo/mybot_ws.git](https://github.com/weihanyeo/ROS-Gazebo_tutorial)
