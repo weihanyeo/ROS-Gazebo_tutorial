@@ -38,11 +38,10 @@ Grab willow_garage.pgm (107 MB) from https://drive.google.com/open?id=19qgc33GMi
 
 ## Requirements:
 ```
-sudo apt-get install ros-kinetic-gazebo-ros
+sudo apt-get install ros-melodic-gazebo-ros
 
-sudo apt-get install ros-kinetic-turtlebot ros-kinetic-turtlebot-apps ros-kinetic-turtlebot-
-interactions ros-kinetic-turtlebot-simulator ros-kinetic-kobuki-ftdi ros-kinetic-ar-track-
-alvar-msgs
+sudo apt-get install ros-melodic-turtlebot ros-melodic-turtlebot-apps ros-melodic-turtlebot-
+interactions ros-melodic-turtlebot-simulator
 ```
 ## Notes:
 - Changes to CMakeLists may be required before catkin_make
